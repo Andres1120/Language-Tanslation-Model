@@ -33,7 +33,7 @@ index,EN,PT
 31,Wait.,Espere!
 32,Wait.,Esperem.
 33,Go on.,Siga em frente.
-34,Go on.,Vá!
+34,Go on.,Vá!.
 35,Go on.,Continue.
 36,Go on.,Siga adiante.
 37,Hello!,Oi.
